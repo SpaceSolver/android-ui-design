@@ -31,6 +31,8 @@
    * https://www.sketch.com/
    * 有名。
    * **free版は30日限定**
+   * **Mac限定**
+      * https://www.sketch.com/support/requirements/index.html
 * Adobe XD
    * https://www.adobe.com/jp/products/xd/details.html
    * 有名でしょうきっと。
