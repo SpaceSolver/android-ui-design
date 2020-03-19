@@ -5,4 +5,13 @@
 * https://github.com/SpaceSolver/android-ui-design/blob/master/README.design.md
 
 
+# 具体的なコードの書き方の話題
+
+## Fragmentの調整ってどうするんだろう？
+
+* https://github.com/SpaceSolver/android-ui-design/blob/master/README.fragment.md
+
+## ボタンのカスタマイズは？
+
+* https://github.com/SpaceSolver/android-ui-button-custom
 
