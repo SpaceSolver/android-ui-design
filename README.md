@@ -15,3 +15,6 @@
 
 * https://github.com/SpaceSolver/android-ui-button-custom
 
+## 「テーマ」の変更はどうやるの？
+
+* https://github.com/SpaceSolver/android_ChangeTheme
