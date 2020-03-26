@@ -1,11 +1,12 @@
 # AndroidのUIデザインとかどないすん？
 
-# 「デザイン」と「実装」の連携ってどんなことするの？（ツールとか）
+
+# 「デザイン」と「実装」の連携ってどんなイメージ？
 
 * https://github.com/SpaceSolver/android-ui-design/blob/master/README.design.md
 
 
-# 具体的なコードの書き方の話題
+# 具体的なコードの書き方の確認結果
 
 ## Fragmentの調整ってどうするんだろう？
 
