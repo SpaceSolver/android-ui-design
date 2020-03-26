@@ -19,3 +19,7 @@
 ## 「テーマ」の変更はどうやるの？
 
 * https://github.com/SpaceSolver/android_ChangeTheme
+
+## Navigation Drawerの見た目の変更はどうするのか？
+
+* https://github.com/SpaceSolver/android_CustomNavigetion
